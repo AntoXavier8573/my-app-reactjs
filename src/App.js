@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       Happy coding!!!
-      With new Branch_new1 and Branch_new2.
+      With new Branch_new1 and changed author name.
     </div>
   );
 }
