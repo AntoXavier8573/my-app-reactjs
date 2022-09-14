@@ -1,11 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Navbar from './Components/Navbar/Navbar.js'
 function App() {
   return (
     <div className="App">
-      Happy coding!!!
-      With new Branch_new1 and changed now author name.
+      <Navbar/>
     </div>
   );
 }
